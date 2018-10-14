@@ -138,7 +138,7 @@ figcaption {
     font-size: 18px
 }
 .imageContainer {
-    float: left;
+    float: right;
 }
 .hover-outline { 
     margin-left: 30px;
